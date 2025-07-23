@@ -1,0 +1,1477 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.16)  23 JUL 2025 13:34
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/практика/база данных.tex"
+(d:/практика/база данных.tex
+LaTeX2e <2024-06-01>
+L3 programming layer <2024-05-08>
+(D:\Tex\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(D:\Tex\tex/latex/base\size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\c@figure=\count196
+\c@table=\count197
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (D:\Tex\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (D:\Tex\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (D:\Tex\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (D:\Tex\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count198
+\Gm@cntv=\count199
+\c@Gm@tempcnt=\count266
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+ (D:\Tex\tex/latex/geometry\geometry.cfg)) (D:\Tex\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count267
+\LTcapwidth=\dimen150
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count268
+\LT@rows=\count269
+\c@LT@tables=\count270
+\c@LT@chunks=\count271
+\LT@p@ftn=\toks19
+) (D:\Tex\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box57
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen151
+\ttl@minus=\dimen152
+\ttl@toksa=\toks20
+\titlewidth=\dimen153
+\titlewidthlast=\dimen154
+\titlewidthfirst=\dimen155
+) (D:\Tex\tex/latex/fontspec\fontspec.sty (D:\Tex\tex/latex/l3packages/xparse\xparse.sty (D:\Tex\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-05-08 L3 programming layer (loader) 
+ (D:\Tex\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count272
+\l__pdf_internal_box=\box58
+\g__pdf_backend_annotation_int=\count273
+\g__pdf_backend_link_int=\count274
+))
+Package: xparse 2024-05-08 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+ (D:\Tex\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count275
+\l__fontspec_language_int=\count276
+\l__fontspec_strnum_int=\count277
+\l__fontspec_tmp_int=\count278
+\l__fontspec_tmpa_int=\count279
+\l__fontspec_tmpb_int=\count280
+\l__fontspec_tmpc_int=\count281
+\l__fontspec_em_int=\count282
+\l__fontspec_emdef_int=\count283
+\l__fontspec_strong_int=\count284
+\l__fontspec_strongdef_int=\count285
+\l__fontspec_tmpa_dim=\dimen156
+\l__fontspec_tmpb_dim=\dimen157
+\l__fontspec_tmpc_dim=\dimen158
+ (D:\Tex\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (D:\Tex\tex/latex/fontspec\fontspec.cfg))) (D:\Tex\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+ (D:\Tex\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (D:\Tex\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (D:\Tex\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (D:\Tex\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (D:\Tex\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (D:\Tex\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)) (D:\Tex\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (D:\Tex\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (D:\Tex\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (D:\Tex\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (D:\Tex\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count286
+) (D:\Tex\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count287
+) (D:\Tex\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen159
+\Hy@linkcounter=\count288
+\Hy@pagecounter=\count289
+ (D:\Tex\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+) (D:\Tex\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count290
+ (D:\Tex\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count291
+ (D:\Tex\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen160
+ (D:\Tex\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (D:\Tex\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count292
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (D:\Tex\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count293
+\c@Item=\count294
+\c@Hfootnote=\count295
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (D:\Tex\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2024-05-23 v7.01i Hyperref driver for XeTeX
+\pdfm@box=\box59
+\c@Hy@AnnotLevel=\count296
+\HyField@AnnotCount=\count297
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+ (D:\Tex\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (D:\Tex\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (D:\Tex\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip57
+) (D:\Tex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (D:\Tex\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (D:\Tex\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (D:\Tex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (D:\Tex\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+) (D:\Tex\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count300
+\float@exts=\toks21
+\float@box=\box60
+\@float@everytoks=\toks22
+\@floatcapt=\box61
+) (D:\Tex\tex/latex/listings\listings.sty
+\lst@mode=\count301
+\lst@gtempboxa=\box62
+\lst@token=\toks23
+\lst@length=\count302
+\lst@currlwidth=\dimen165
+\lst@column=\count303
+\lst@pos=\count304
+\lst@lostspace=\dimen166
+\lst@width=\dimen167
+\lst@newlines=\count305
+\lst@lineno=\count306
+\lst@maxwidth=\dimen168
+ (D:\Tex\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+) (D:\Tex\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+\c@lstnumber=\count307
+\lst@skipnumbers=\count308
+\lst@framebox=\box63
+) (D:\Tex\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/05/25 1.10b listings configuration
+))
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
+ (D:\Tex\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (D:\Tex\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+ (D:\Tex\tex/latex/graphics\mathcolor.ltx)) (D:\Tex\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2024/08/20 v0.6b Insert pages of external PDF documents (AM)
+ (D:\Tex\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (D:\Tex\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count309
+\calc@Bcount=\count310
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count311
+\calc@Cskip=\skip60
+) (D:\Tex\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen171
+\ESO@tempdimb=\dimen172
+)
+\AM@pagewidth=\dimen173
+\AM@pageheight=\dimen174
+\AM@fboxrule=\dimen175
+ (D:\Tex\tex/latex/pdfpages\ppxetex.def
+File: ppxetex.def 2024/08/20 v0.6b Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count312
+\AM@pagebox=\box64
+\AM@global@opts=\toks24
+\AM@pagecnt=\count313
+\AM@toc@title=\toks25
+\AM@lof@heading=\toks26
+\c@AM@survey=\count314
+\AM@templatesizebox=\box65
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+
+ (база данных.aux)
+\openout1 = `"база данных.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 50.
+ (D:\Tex\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 50.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 50.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 50.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 50.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 50.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 50.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 50.
+LaTeX Font Info:    Redeclaring math accent \check on input line 50.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 50.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 50.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 50.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 50.
+Package hyperref Info: Link coloring OFF on input line 50.
+(база данных.out) (база данных.out)
+\@outlinefile=\write3
+\openout3 = `"база данных.out"'.
+
+\c@lstlisting=\count315
+ (D:\Tex\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (D:\Tex\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (D:\Tex\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 53.
+
+Overfull \hbox (23.81465pt too wide) in paragraph at lines 55--56
+\TU/TimesNewRoman(0)/m/n/12 В условиях высокой сложности и многозадачности крупных проектов, особенно в промышленности,
+ []
+
+
+Overfull \hbox (20.67618pt too wide) in paragraph at lines 59--60
+[]\TU/TimesNewRoman(0)/m/n/12 Повышение эффективности управления проектами за счёт автоматизации рутинных решений. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TimesNewRoman(0)/m/n/12 Управление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TimesNewRoman(0)/m/n/12 инвестиционные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TimesNewRoman(0)/m/n/12 проекты, Value
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TimesNewRoman(0)/m/n/12 Модель
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TimesNewRoman(0)/m/n/12 управления,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\TU/TimesNewRoman(0)/m/n/12 Классификация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\TU/TimesNewRoman(0)/m/n/12 риск-менеджмент,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]|\TU/TimesNewRoman(0)/m/n/12 Чтобы оценивать и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]|\TU/TimesNewRoman(0)/m/n/12 ИИ и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]|\TU/TimesNewRoman(0)/m/n/12 цифровизация,
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 74--74
+\TU/TimesNewRoman(0)/m/n/12 ИИ, предиктивная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]|\TU/TimesNewRoman(0)/m/n/12 Где применяется
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[]|\TU/TimesNewRoman(0)/m/n/12 Для генерации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\TU/TimesNewRoman(0)/m/n/12 ESG и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\TU/TimesNewRoman(0)/m/n/12 ESG,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\TU/TimesNewRoman(0)/m/n/12 декарбонизация,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+[]|\TU/TimesNewRoman(0)/m/n/12 Чтобы учитывать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]|\TU/TimesNewRoman(0)/m/n/12 Органы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]|\TU/TimesNewRoman(0)/m/n/12 проектный офис,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/12 эффективность,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/12 Сроки, бюджеты,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]|\TU/TimesNewRoman(0)/m/n/12 Для выявления
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\TU/TimesNewRoman(0)/m/n/12 мониторинг,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/TimesNewRoman(0)/m/n/12 контроль
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\TU/TimesNewRoman(0)/m/n/12 Механизмы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+[]|\TU/TimesNewRoman(0)/m/n/12 Помощник может
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\TU/TimesNewRoman(0)/m/n/12 Стандарты и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\TU/TimesNewRoman(0)/m/n/12 Внутренние
+ []
+
+
+Overfull \hbox (15.15306pt too wide) in alignment at lines 66--86
+ [] [] [] [] [] 
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[]|\TU/TimesNewRoman(0)/m/n/12 «СИБУР активно вовлечен
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+\TU/TimesNewRoman(0)/m/n/12 в НИОКР… моделирование
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+\TU/TimesNewRoman(0)/m/n/12 полимеров и их свойств с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+[]|\TU/TimesNewRoman(0)/m/n/12 ИИ применяется
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\TU/TimesNewRoman(0)/m/n/12 в исследованиях
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\TU/TimesNewRoman(0)/m/n/12 и цифровых
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\TU/TimesNewRoman(0)/m/n/12 экспериментах —
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 100--101
+\TU/TimesNewRoman(0)/m/n/12 фундамент для RAG и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]|\TU/TimesNewRoman(0)/b/n/12 Инвестиционные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]|\TU/TimesNewRoman(0)/m/n/12 «Укрепляется функция
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 104--104
+\TU/TimesNewRoman(0)/m/n/12 проектного управления… Value
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\TU/TimesNewRoman(0)/m/n/12 Engineering… база знаний по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[]|\TU/TimesNewRoman(0)/m/n/12 Развита методология
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/TimesNewRoman(0)/m/n/12 проектного контроля,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/TimesNewRoman(0)/m/n/12 включая предиктивный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/TimesNewRoman(0)/m/n/12 анализ и накопление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]|\TU/TimesNewRoman(0)/b/n/12 Раздел “Ключевые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/12 «Риски: макроэкономический,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/12 геополитический,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/12 логистический,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/12 информационный, ESG,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+[]|\TU/TimesNewRoman(0)/m/n/12 Даётся классификация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+\TU/TimesNewRoman(0)/m/n/12 рисков + меры
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 110--111
+\TU/TimesNewRoman(0)/m/n/12 управления, сценарный
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/b/n/12 Раздел об устойчивом
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\TU/TimesNewRoman(0)/m/n/12 «Обновлена стратегия
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\TU/TimesNewRoman(0)/m/n/12 устойчивого развития… ESG-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+[]|\TU/TimesNewRoman(0)/m/n/12 Интеграция ESG и
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 115--116
+\TU/TimesNewRoman(0)/m/n/12 KPI проектов. Оценка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/TimesNewRoman(0)/m/n/12 и декарбонизация как
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/TimesNewRoman(0)/m/n/12 часть стратегических
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+[]|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\TU/TimesNewRoman(0)/b/n/12 Нормативные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\TU/TimesNewRoman(0)/b/n/12 документы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\TU/TimesNewRoman(0)/b/n/12 «Управление рисками
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+\TU/TimesNewRoman(0)/m/n/12 включает расчет финансовых
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 137--137
+\TU/TimesNewRoman(0)/m/n/12 потерь и выгод… интегральная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+[]|\TU/TimesNewRoman(0)/m/n/12 Формализованный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+\TU/TimesNewRoman(0)/m/n/12 подход с выручкой,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+\TU/TimesNewRoman(0)/m/n/12 вероятностью и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]|\TU/TimesNewRoman(0)/b/n/12 Отчёт по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+\TU/TimesNewRoman(0)/b/n/12 цифровизации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+\TU/TimesNewRoman(0)/m/n/12 («Русатом‑Цифровые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]|\TU/TimesNewRoman(0)/m/n/12 «Созданы … структуры по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+\TU/TimesNewRoman(0)/m/n/12 внутренней цифровизации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+[]|\TU/TimesNewRoman(0)/m/n/12 Наличие отдельного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+\TU/TimesNewRoman(0)/m/n/12 подразделения для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]|\TU/TimesNewRoman(0)/m/n/12 «Подтверждён уровень „А“ в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+\TU/TimesNewRoman(0)/m/n/12 ESG‑рейтинге … полностью
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+\TU/TimesNewRoman(0)/m/n/12 ESG-управления на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\TU/TimesNewRoman(0)/b/n/12 Общий публичный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\TU/TimesNewRoman(0)/m/n/12 «В 2023 проходили слёты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+[]|\TU/TimesNewRoman(0)/m/n/12 Системный подход к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]|\TU/TimesNewRoman(0)/b/n/12 Инфраструктурные
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 157--157
+[]|\TU/TimesNewRoman(0)/m/n/12 «Строительство ЦОД рядом с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+[]|\TU/TimesNewRoman(0)/m/n/12 Примеры больших
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+\TU/TimesNewRoman(0)/m/n/12 цифровых проектов,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+\TU/TimesNewRoman(0)/m/n/12 обеспечение
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+[]|\TU/TimesNewRoman(0)/b/n/12 Sustainability Report
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[]|\TU/TimesNewRoman(0)/m/n/12 «специфические выбросы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+\TU/TimesNewRoman(0)/m/n/12 парниковых газов снижены
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 177--177
+\TU/TimesNewRoman(0)/m/n/12 на 6.7 %, удельные выбросы в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+[]|\TU/TimesNewRoman(0)/m/n/12 Отражено снижение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+\TU/TimesNewRoman(0)/m/n/12 климатических рисков
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+\TU/TimesNewRoman(0)/m/n/12 через количественные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]|\TU/TimesNewRoman(0)/b/n/12 Управление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\TU/TimesNewRoman(0)/b/n/12 климатическими
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 182--182
+[]|\TU/TimesNewRoman(0)/m/n/12 «Оценка климатических рисков
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 182--182
+\TU/TimesNewRoman(0)/m/n/12 выполнена по трём сценариям
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\TU/TimesNewRoman(0)/m/n/12 SSP 126, 245, 585 с оценкой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+\TU/TimesNewRoman(0)/m/n/12 для моделирования
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 187--187
+\TU/TimesNewRoman(0)/m/n/12 «A−»… оценивает и управляет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Усиленная ESG-
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 188--189
+\TU/TimesNewRoman(0)/m/n/12 практика с признанием
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+\TU/TimesNewRoman(0)/m/n/12 международных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]|\TU/TimesNewRoman(0)/b/n/12 AI для контроля
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[]|\TU/TimesNewRoman(0)/m/n/12 «RUSAL внедряет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+\TU/TimesNewRoman(0)/m/n/12 искусственный интеллект
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+\TU/TimesNewRoman(0)/m/n/12 для мониторинга технологии
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+[]|\TU/TimesNewRoman(0)/m/n/12 Конкретный пример
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+\TU/TimesNewRoman(0)/m/n/12 ИИ‑проекта для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+\TU/TimesNewRoman(0)/m/n/12 контроля процессов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[]|\TU/TimesNewRoman(0)/m/n/12 Долгосрочная ESG-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\TU/TimesNewRoman(0)/m/n/12 стратегия — база
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\TU/TimesNewRoman(0)/m/n/12 для стратегического
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\TU/TimesNewRoman(0)/m/n/12 мониторинга в
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 218--218
+[]|\TU/TimesNewRoman(0)/m/n/12 Если отклонение по срокам
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
+\TU/TimesNewRoman(0)/m/n/12 задач > 15% от базового
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+[]|\TU/TimesNewRoman(0)/m/n/12 Используется в системе оценки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\TU/TimesNewRoman(0)/m/n/12 инвестиционных проектов (СИБУР,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+\TU/TimesNewRoman(0)/m/n/12 чем на 10% — пометить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+\TU/TimesNewRoman(0)/m/n/12 как “рисковое отклонение”
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+\TU/TimesNewRoman(0)/m/n/12 и инициировать повторную
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+[]|\TU/TimesNewRoman(0)/m/n/12 Типовой предел управления
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+[]|\TU/TimesNewRoman(0)/m/n/12 Если в течение 2 недель
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+\TU/TimesNewRoman(0)/m/n/12 подряд фиксируются
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+\TU/TimesNewRoman(0)/m/n/12 — система предупреждает
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+[]|\TU/TimesNewRoman(0)/m/n/12 Используется для выявления скрытых
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+[]|\TU/TimesNewRoman(0)/m/n/12 Если уровень ESG-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+\TU/TimesNewRoman(0)/m/n/12 показателей падает ниже
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+\TU/TimesNewRoman(0)/m/n/12 внутреннего порога
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+\TU/TimesNewRoman(0)/m/n/12 (например, выбросы СО₂
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+\TU/TimesNewRoman(0)/m/n/12 выросли > 5%), проект
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+\TU/TimesNewRoman(0)/m/n/12 помечается как “критичный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+[]|\TU/TimesNewRoman(0)/m/n/12 На базе данных из отчётов РУСАЛ и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+[]|\TU/TimesNewRoman(0)/m/n/12 Если подрядчик пропускает
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+\TU/TimesNewRoman(0)/m/n/12 более 1 контрольной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+\TU/TimesNewRoman(0)/m/n/12 точки подряд — вывести
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+[]|\TU/TimesNewRoman(0)/m/n/12 Стратегия управления подрядчиками у
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+\TU/TimesNewRoman(0)/m/n/12 любого риска > 70%,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+\TU/TimesNewRoman(0)/m/n/12 активировать сценарный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+\TU/TimesNewRoman(0)/m/n/12 сбой в ИИ-мониторинге
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+\TU/TimesNewRoman(0)/m/n/12 контроле), приостановить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+\TU/TimesNewRoman(0)/m/n/12 операции и инициировать
+ []
+
+
+
+[3]
+Overfull \hbox (4.15376pt too wide) in paragraph at lines 241--241
+|[]\TU/TimesNewRoman(0)/b/n/17.28 Концепция сценарного моделирования реализации проекта| 
+ []
+
+
+Overfull \hbox (54.55392pt too wide) in paragraph at lines 243--244
+\TU/TimesNewRoman(0)/m/n/12 текущем состоянии проекта, вероятностях рисков и внешних ограничениях для генерации альтернативных
+ []
+
+
+
+[4]
+File: 1.png Graphic file (type bmp)
+<1.png>
+
+
+[5]
+
+[6]
+Overfull \hbox (7.3827pt too wide) in paragraph at lines 302--303
+\TU/TimesNewRoman(0)/m/n/12 использует внешние документы при генерации ответа. Вместо генерации ”из головы”, помощник
+ []
+
+
+Overfull \hbox (22.90744pt too wide) in paragraph at lines 320--321
+[]\TU/TimesNewRoman(0)/m/n/12 Удобно реализуется на практике с помощью LangChain, Haystack или собственного пайплайна. 
+ []
+
+
+Overfull \hbox (29.95839pt too wide) in paragraph at lines 325--327
+\TU/TimesNewRoman(0)/b/n/12 Запрос пользователя: \TU/TimesNewRoman(0)/m/n/12 «Какие риски учитывает СИБУР при реализации инвестиционных проектов?» 
+ []
+
+
+Overfull \hbox (71.72888pt too wide) in paragraph at lines 332--334
+[]\TU/TimesNewRoman(0)/m/n/12 Генератор LLM формирует ответ: \TU/TimesNewRoman(0)/m/it/12 «СИБУР выделяет следующие ключевые риски: макроэкономический,
+ []
+
+File: 2.png Graphic file (type bmp)
+<2.png>
+
+
+[7]
+Overfull \hbox (12.1094pt too wide) in paragraph at lines 345--346
+\TU/TimesNewRoman(0)/m/n/12 «вопрос–ответ» на основе анализа годовых отчётов, внутренних регламентов, сценариев и гипотез
+ []
+
+
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
+[]|\TU/TimesNewRoman(0)/b/n/12 Примеры вопросов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+[]|\TU/TimesNewRoman(0)/b/n/12 Примеры ответов (re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--404
+[]|\TU/TimesNewRoman(0)/b/n/12 Примеры вопросов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+[]|\TU/TimesNewRoman(0)/b/n/12 Примеры ответов (re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[]|\TU/TimesNewRoman(0)/m/n/12 Какие ключевые риски
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+\TU/TimesNewRoman(0)/m/n/12 Что делать при росте
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+[]|\TU/TimesNewRoman(0)/m/n/12 Перечисление типов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+\TU/TimesNewRoman(0)/m/n/12 рисков, рекомендации
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 408--409
+\TU/TimesNewRoman(0)/m/n/12 по управлению, ссылка на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+\TU/TimesNewRoman(0)/m/n/12 Поставка оборудования
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+[]|\TU/TimesNewRoman(0)/m/n/12 Генерация сценариев:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/TimesNewRoman(0)/m/n/12 пересчёт графика,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\TU/TimesNewRoman(0)/m/n/12 перераспределение задач,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--414
+[]|\TU/TimesNewRoman(0)/m/n/12 Бюджет и
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 414--414
+[]|\TU/TimesNewRoman(0)/m/n/12 Проект выходит за бюджет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--414
+\TU/TimesNewRoman(0)/m/n/12 Как контролируется
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+[]|\TU/TimesNewRoman(0)/m/n/12 Сценарий перерасчёта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+\TU/TimesNewRoman(0)/m/n/12 Engineering, уведомление
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 417--417
+[]|\TU/TimesNewRoman(0)/m/n/12 Мы не достигли трёх KPI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+[]|\TU/TimesNewRoman(0)/m/n/12 Гипотеза H3: система
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+\TU/TimesNewRoman(0)/m/n/12 фиксирует угрозу,
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 420.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 420.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 420.
+
+Underfull \hbox (badness 3281) in paragraph at lines 420--420
+[]|\TU/TimesNewRoman(0)/m/n/12 Выбросы CO$[]$ выросли на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+[]|\TU/TimesNewRoman(0)/m/n/12 ESG-триггер, активация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+\TU/TimesNewRoman(0)/m/n/12 сценариев SSP,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+[]|\TU/TimesNewRoman(0)/m/n/12 Подрядчик сорвал 2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+\TU/TimesNewRoman(0)/m/n/12 Как реагировать на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+\TU/TimesNewRoman(0)/m/n/12 подрядчиков с плохой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+[]|\TU/TimesNewRoman(0)/m/n/12 Анализ контракта,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+\TU/TimesNewRoman(0)/m/n/12 рекомендации по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+\TU/TimesNewRoman(0)/m/n/12 замене, подключение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+\TU/TimesNewRoman(0)/m/n/12 альтернативного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+[]|\TU/TimesNewRoman(0)/m/n/12 Сбой в системе
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+\TU/TimesNewRoman(0)/m/n/12 Что делать при
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+[]|\TU/TimesNewRoman(0)/m/n/12 Остановка операций,
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 426--427
+\TU/TimesNewRoman(0)/m/n/12 переход на ручной режим,
+ []
+
+
+
+[9]
+Overfull \hbox (4.21799pt too wide) in paragraph at lines 433--434
+\TU/TimesNewRoman(0)/m/n/12 Подготовлена концепция интеллектуального помощника, включающего в себя механизм анализа
+ []
+
+
+
+[10] (база данных.aux)
+ ***********
+LaTeX2e <2024-06-01>
+L3 programming layer <2024-05-08>
+ ***********
+Package rerunfilecheck Info: File `"база данных".out' has not changed.
+(rerunfilecheck)             Checksum: <no file>.
+ ) 
+Here is how much of TeX's memory you used:
+ 13662 strings out of 409067
+ 258916 string characters out of 5765324
+ 2112545 words of memory out of 5000000
+ 36148 multiletter control sequences out of 15000+600000
+ 562286 words of font info for 75 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 79i,9n,93p,535b,999s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on база данных.xdv (10 pages, 179276 bytes).
