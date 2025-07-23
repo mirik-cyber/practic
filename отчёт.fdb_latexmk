@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1753274505.3927 "база данных.xdv" "база данных.pdf" "база данных" 1753274505.98862 0
-  "база данных.xdv" 1753274505 235548 862cdfc213558cb253077b12d096a39e "xelatex"
+["xdvipdfmx"] 1753275318.39053 "отчёт.xdv" "отчёт.pdf" "отчёт" 1753275318.95139 0
+  "отчёт.xdv" 1753275318 235548 c7602a216ba939df2480add6a8fc19be "xelatex"
   (generated)
-  "база данных.pdf"
+  "отчёт.pdf"
   (rewritten before read)
-["xelatex"] 1753274503.93401 "d:/практика/база данных.tex" "база данных.xdv" "база данных" 1753274505.98476 0
+["xelatex"] 1753275316.98138 "d:/практика/отчёт.tex" "отчёт.xdv" "отчёт" 1753275318.94718 0
   "1.png" 1753265682 34655 7ae42ddc697dd228de807adeb29f5831 ""
   "2.png" 1753266035 35632 378834d9a678e6db9c02861d895afebf ""
   "C:/Users/Miroslav/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1729091215 37585178 26320e2ebcbbc4bc51acae33acae03fb ""
@@ -84,13 +84,13 @@
   "D:/Tex/tex/latex/tools/calc.sty" 1700599895 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "D:/Tex/tex/latex/tools/longtable.sty" 1700599895 12935 94a3291359b5f73ff1b19345a6983105 ""
   "D:/Tex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/практика/база данных.tex" 1753274501 36934 1c22e5ee95cd6cca662c46c84eeab65d ""
-  "база данных.aux" 1753274505 4926 26b5cbd8850a8e4fd214e8a6b25ed6f0 "xelatex"
-  "база данных.out" 1753274505 6388 4ede2ddd28c318b71d59c9415d639ebd "xelatex"
-  "база данных.tex" 1753274501 36934 1c22e5ee95cd6cca662c46c84eeab65d ""
+  "d:/практика/отчёт.tex" 1753274501 36934 1c22e5ee95cd6cca662c46c84eeab65d ""
+  "отчёт.aux" 1753275318 4926 26b5cbd8850a8e4fd214e8a6b25ed6f0 "xelatex"
+  "отчёт.out" 1753275318 6388 4ede2ddd28c318b71d59c9415d639ebd "xelatex"
+  "отчёт.tex" 1753274501 36934 1c22e5ee95cd6cca662c46c84eeab65d ""
   (generated)
-  "база данных.aux"
-  "база данных.log"
-  "база данных.out"
-  "база данных.xdv"
+  "отчёт.aux"
+  "отчёт.log"
+  "отчёт.out"
+  "отчёт.xdv"
   (rewritten before read)

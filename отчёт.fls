@@ -1,7 +1,7 @@
 PWD d:\практика
 INPUT C:\Users\Miroslav\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT d:\практика\база данных.tex
-OUTPUT база данных.log
+INPUT d:\практика\отчёт.tex
+OUTPUT отчёт.log
 INPUT D:\Tex\tex\latex\base\article.cls
 INPUT D:\Tex\tex\latex\base\article.cls
 INPUT D:\Tex\tex\latex\base\size12.clo
@@ -137,25 +137,27 @@ INPUT D:\Tex\tex\latex\eso-pic\eso-pic.sty
 INPUT D:\Tex\tex\latex\pdfpages\ppxetex.def
 INPUT D:\Tex\tex\latex\pdfpages\ppxetex.def
 INPUT D:\Tex\tex\latex\pdfpages\ppxetex.def
-INPUT .\база данных.aux
-INPUT .\база данных.aux
-INPUT база данных.aux
-OUTPUT база данных.aux
+INPUT .\отчёт.aux
+INPUT .\отчёт.aux
+INPUT отчёт.aux
+OUTPUT отчёт.aux
 INPUT D:\Tex\tex\latex\base\ts1cmr.fd
 INPUT D:\Tex\tex\latex\base\ts1cmr.fd
 INPUT D:\Tex\tex\latex\base\ts1cmr.fd
-INPUT .\база данных.out
-INPUT .\база данных.out
-INPUT база данных.out
-INPUT база данных.out
-OUTPUT база данных.out
+INPUT .\отчёт.out
+INPUT .\отчёт.out
+INPUT отчёт.out
+INPUT отчёт.out
+INPUT .\отчёт.out
+INPUT .\отчёт.out
+OUTPUT отчёт.out
 INPUT D:\Tex\tex\latex\pdflscape\pdflscape.sty
 INPUT D:\Tex\tex\latex\pdflscape\pdflscape.sty
 INPUT D:\Tex\tex\latex\pdflscape\pdflscape-nometadata.sty
 INPUT D:\Tex\tex\latex\pdflscape\pdflscape-nometadata.sty
 INPUT D:\Tex\tex\latex\graphics\lscape.sty
 INPUT D:\Tex\tex\latex\graphics\lscape.sty
-OUTPUT база данных.xdv
+OUTPUT отчёт.xdv
 INPUT .\1.png
 INPUT .\1.png
 INPUT .\1.png
@@ -174,4 +176,6 @@ INPUT D:\Tex\fonts\tfm\public\cm\cmr6.tfm
 INPUT D:\Tex\tex\latex\listings\lstlang1.sty
 INPUT D:\Tex\tex\latex\listings\lstlang1.sty
 INPUT D:\Tex\tex\latex\listings\lstlang1.sty
-INPUT база данных.aux
+INPUT отчёт.aux
+INPUT .\отчёт.out
+INPUT .\отчёт.out
