@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.16)  23 JUL 2025 13:34
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.16)  23 JUL 2025 15:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -327,30 +327,30 @@ Package fontspec Info:
  (база данных.aux)
 \openout1 = `"база данных.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 46.
  (D:\Tex\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -393,58 +393,58 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 50.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 50.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 50.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 50.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 50.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 50.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 50.
-LaTeX Font Info:    Redeclaring math accent \check on input line 50.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 50.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 50.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 50.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 50.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 50.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 46.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 46.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 46.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 46.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 46.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 46.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 46.
+LaTeX Font Info:    Redeclaring math accent \check on input line 46.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 46.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 46.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 46.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 46.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 50.
+(Font)              `operators' in the math version `normal' on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 50.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 46.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 50.
+(Font)              `operators' in the math version `bold' on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 50.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 50.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 50.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 50.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 50.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 50.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 50.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 50.
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 50.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 50.
-Package hyperref Info: Link coloring OFF on input line 50.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 46.
+Package hyperref Info: Link coloring OFF on input line 46.
 (база данных.out) (база данных.out)
 \@outlinefile=\write3
 \openout3 = `"база данных.out"'.
@@ -459,772 +459,761 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 53.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 53.
-
-Overfull \hbox (23.81465pt too wide) in paragraph at lines 55--56
-\TU/TimesNewRoman(0)/m/n/12 В условиях высокой сложности и многозадачности крупных проектов, особенно в промышленности,
- []
-
-
-Overfull \hbox (20.67618pt too wide) in paragraph at lines 59--60
-[]\TU/TimesNewRoman(0)/m/n/12 Повышение эффективности управления проектами за счёт автоматизации рутинных решений. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
-[]|\TU/TimesNewRoman(0)/m/n/12 Управление
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
-[]|\TU/TimesNewRoman(0)/m/n/12 инвестиционные
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
-\TU/TimesNewRoman(0)/m/n/12 проекты, Value
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
-[]|\TU/TimesNewRoman(0)/m/n/12 Модель
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
-\TU/TimesNewRoman(0)/m/n/12 управления,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
-[]|\TU/TimesNewRoman(0)/m/n/12 Классификация
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
-[]|\TU/TimesNewRoman(0)/m/n/12 риск-менеджмент,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
-[]|\TU/TimesNewRoman(0)/m/n/12 Чтобы оценивать и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
-[]|\TU/TimesNewRoman(0)/m/n/12 ИИ и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
-[]|\TU/TimesNewRoman(0)/m/n/12 цифровизация,
- []
-
-
-Underfull \hbox (badness 5970) in paragraph at lines 74--74
-\TU/TimesNewRoman(0)/m/n/12 ИИ, предиктивная
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
-[]|\TU/TimesNewRoman(0)/m/n/12 Где применяется
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-[]|\TU/TimesNewRoman(0)/m/n/12 Для генерации
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/12 ESG и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\TU/TimesNewRoman(0)/m/n/12 ESG,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-\TU/TimesNewRoman(0)/m/n/12 декарбонизация,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
-[]|\TU/TimesNewRoman(0)/m/n/12 Чтобы учитывать
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\TU/TimesNewRoman(0)/m/n/12 Органы
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\TU/TimesNewRoman(0)/m/n/12 проектный офис,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]|\TU/TimesNewRoman(0)/m/n/12 эффективность,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]|\TU/TimesNewRoman(0)/m/n/12 Сроки, бюджеты,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-[]|\TU/TimesNewRoman(0)/m/n/12 Для выявления
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
-[]|\TU/TimesNewRoman(0)/m/n/12 мониторинг,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
-\TU/TimesNewRoman(0)/m/n/12 контроль
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
-[]|\TU/TimesNewRoman(0)/m/n/12 Механизмы
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-[]|\TU/TimesNewRoman(0)/m/n/12 Помощник может
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--84
-[]|\TU/TimesNewRoman(0)/m/n/12 Стандарты и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--84
-[]|\TU/TimesNewRoman(0)/m/n/12 Внутренние
- []
-
-
-Overfull \hbox (15.15306pt too wide) in alignment at lines 66--86
- [] [] [] [] [] 
- []
 
 [1
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+\TU/TimesNewRoman(0)/m/n/12 В условиях высокой сложности и многозадачности крупных проектов, особенно в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]|\TU/TimesNewRoman(0)/m/n/12 Управление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]|\TU/TimesNewRoman(0)/m/n/12 инвестиционные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\TU/TimesNewRoman(0)/m/n/12 проекты, Value
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]|\TU/TimesNewRoman(0)/m/n/12 Модель
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\TU/TimesNewRoman(0)/m/n/12 управления,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\TU/TimesNewRoman(0)/m/n/12 Классификация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\TU/TimesNewRoman(0)/m/n/12 риск-менеджмент,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+[]|\TU/TimesNewRoman(0)/m/n/12 Чтобы оценивать и
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 90--90
-[]|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
+[]|\TU/TimesNewRoman(0)/m/n/12 ИИ и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\TU/TimesNewRoman(0)/m/n/12 цифровизация,
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 90--90
+\TU/TimesNewRoman(0)/m/n/12 ИИ, предиктивная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\TU/TimesNewRoman(0)/m/n/12 Где применяется
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+[]|\TU/TimesNewRoman(0)/m/n/12 Для генерации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/12 ESG и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/12 ESG,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/12 декарбонизация,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]|\TU/TimesNewRoman(0)/m/n/12 Чтобы учитывать
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\TU/TimesNewRoman(0)/m/n/12 Органы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\TU/TimesNewRoman(0)/m/n/12 проектный офис,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\TU/TimesNewRoman(0)/m/n/12 эффективность,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\TU/TimesNewRoman(0)/m/n/12 Сроки, бюджеты,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+[]|\TU/TimesNewRoman(0)/m/n/12 Для выявления
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\TU/TimesNewRoman(0)/m/n/12 мониторинг,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\TU/TimesNewRoman(0)/m/n/12 контроль
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\TU/TimesNewRoman(0)/m/n/12 Механизмы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+[]|\TU/TimesNewRoman(0)/m/n/12 Помощник может
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]|\TU/TimesNewRoman(0)/m/n/12 Стандарты и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]|\TU/TimesNewRoman(0)/m/n/12 Внутренние
+ []
+
+
+Overfull \hbox (15.15306pt too wide) in alignment at lines 82--102
+ [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
 []|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 []|\TU/TimesNewRoman(0)/m/n/12 «СИБУР активно вовлечен
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \TU/TimesNewRoman(0)/m/n/12 в НИОКР… моделирование
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \TU/TimesNewRoman(0)/m/n/12 полимеров и их свойств с
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 []|\TU/TimesNewRoman(0)/m/n/12 ИИ применяется
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 \TU/TimesNewRoman(0)/m/n/12 в исследованиях
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 \TU/TimesNewRoman(0)/m/n/12 и цифровых
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 \TU/TimesNewRoman(0)/m/n/12 экспериментах —
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 100--101
+Underfull \hbox (badness 2846) in paragraph at lines 116--117
 \TU/TimesNewRoman(0)/m/n/12 фундамент для RAG и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
 []|\TU/TimesNewRoman(0)/b/n/12 Инвестиционные
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
 []|\TU/TimesNewRoman(0)/m/n/12 «Укрепляется функция
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 104--104
+Underfull \hbox (badness 2351) in paragraph at lines 120--120
 \TU/TimesNewRoman(0)/m/n/12 проектного управления… Value
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
 \TU/TimesNewRoman(0)/m/n/12 Engineering… база знаний по
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 []|\TU/TimesNewRoman(0)/m/n/12 Развита методология
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 \TU/TimesNewRoman(0)/m/n/12 проектного контроля,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 \TU/TimesNewRoman(0)/m/n/12 включая предиктивный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 \TU/TimesNewRoman(0)/m/n/12 анализ и накопление
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
 []|\TU/TimesNewRoman(0)/b/n/12 Раздел “Ключевые
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--109
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []|\TU/TimesNewRoman(0)/m/n/12 «Риски: макроэкономический,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--109
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 \TU/TimesNewRoman(0)/m/n/12 геополитический,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--109
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 \TU/TimesNewRoman(0)/m/n/12 логистический,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--109
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 \TU/TimesNewRoman(0)/m/n/12 информационный, ESG,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 []|\TU/TimesNewRoman(0)/m/n/12 Даётся классификация
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 \TU/TimesNewRoman(0)/m/n/12 рисков + меры
  []
 
 
-Underfull \hbox (badness 6078) in paragraph at lines 110--111
+Underfull \hbox (badness 6078) in paragraph at lines 126--127
 \TU/TimesNewRoman(0)/m/n/12 управления, сценарный
  []
 
 
-Underfull \hbox (badness 4084) in paragraph at lines 113--113
+Underfull \hbox (badness 4084) in paragraph at lines 129--129
 []|\TU/TimesNewRoman(0)/b/n/12 Раздел об устойчивом
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
 []|\TU/TimesNewRoman(0)/m/n/12 «Обновлена стратегия
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
 \TU/TimesNewRoman(0)/m/n/12 устойчивого развития… ESG-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 []|\TU/TimesNewRoman(0)/m/n/12 Интеграция ESG и
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 115--116
+Underfull \hbox (badness 1430) in paragraph at lines 131--132
 \TU/TimesNewRoman(0)/m/n/12 KPI проектов. Оценка
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 \TU/TimesNewRoman(0)/m/n/12 и декарбонизация как
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 \TU/TimesNewRoman(0)/m/n/12 часть стратегических
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 []|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
-[]|\TU/TimesNewRoman(0)/b/n/12 Нормативные
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
-\TU/TimesNewRoman(0)/b/n/12 документы
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
-\TU/TimesNewRoman(0)/b/n/12 «Управление рисками
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--137
-\TU/TimesNewRoman(0)/m/n/12 включает расчет финансовых
- []
-
-
-Underfull \hbox (badness 1226) in paragraph at lines 137--137
-\TU/TimesNewRoman(0)/m/n/12 потерь и выгод… интегральная
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-[]|\TU/TimesNewRoman(0)/m/n/12 Формализованный
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-\TU/TimesNewRoman(0)/m/n/12 подход с выручкой,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-\TU/TimesNewRoman(0)/m/n/12 вероятностью и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
-[]|\TU/TimesNewRoman(0)/b/n/12 Отчёт по
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
-\TU/TimesNewRoman(0)/b/n/12 цифровизации
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
-\TU/TimesNewRoman(0)/m/n/12 («Русатом‑Цифровые
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
-[]|\TU/TimesNewRoman(0)/m/n/12 «Созданы … структуры по
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
-\TU/TimesNewRoman(0)/m/n/12 внутренней цифровизации
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
-[]|\TU/TimesNewRoman(0)/m/n/12 Наличие отдельного
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\TU/TimesNewRoman(0)/m/n/12 подразделения для
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
-[]|\TU/TimesNewRoman(0)/m/n/12 «Подтверждён уровень „А“ в
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
-\TU/TimesNewRoman(0)/m/n/12 ESG‑рейтинге … полностью
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-\TU/TimesNewRoman(0)/m/n/12 ESG-управления на
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-[]|\TU/TimesNewRoman(0)/b/n/12 Общий публичный
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\TU/TimesNewRoman(0)/b/n/12 Нормативные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\TU/TimesNewRoman(0)/b/n/12 документы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\TU/TimesNewRoman(0)/b/n/12 «Управление рисками
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+\TU/TimesNewRoman(0)/m/n/12 включает расчет финансовых
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 153--153
+\TU/TimesNewRoman(0)/m/n/12 потерь и выгод… интегральная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+[]|\TU/TimesNewRoman(0)/m/n/12 Формализованный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+\TU/TimesNewRoman(0)/m/n/12 подход с выручкой,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+\TU/TimesNewRoman(0)/m/n/12 вероятностью и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+[]|\TU/TimesNewRoman(0)/b/n/12 Отчёт по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+\TU/TimesNewRoman(0)/b/n/12 цифровизации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+\TU/TimesNewRoman(0)/m/n/12 («Русатом‑Цифровые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/m/n/12 «Созданы … структуры по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 внутренней цифровизации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+[]|\TU/TimesNewRoman(0)/m/n/12 Наличие отдельного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/TimesNewRoman(0)/m/n/12 подразделения для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TimesNewRoman(0)/m/n/12 «Подтверждён уровень „А“ в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\TU/TimesNewRoman(0)/m/n/12 ESG‑рейтинге … полностью
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/TimesNewRoman(0)/m/n/12 ESG-управления на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
+[]|\TU/TimesNewRoman(0)/b/n/12 Общий публичный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 []|\TU/TimesNewRoman(0)/m/n/12 «В 2023 проходили слёты
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 []|\TU/TimesNewRoman(0)/m/n/12 Системный подход к
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
 []|\TU/TimesNewRoman(0)/b/n/12 Инфраструктурные
  []
 
 
-Underfull \hbox (badness 7273) in paragraph at lines 157--157
+Underfull \hbox (badness 7273) in paragraph at lines 173--173
 []|\TU/TimesNewRoman(0)/m/n/12 «Строительство ЦОД рядом с
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 []|\TU/TimesNewRoman(0)/m/n/12 Примеры больших
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 \TU/TimesNewRoman(0)/m/n/12 цифровых проектов,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 \TU/TimesNewRoman(0)/m/n/12 обеспечение
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
 []|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
 []|\TU/TimesNewRoman(0)/b/n/12 Выдержка / Ключевая
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--176
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
 []|\TU/TimesNewRoman(0)/b/n/12 Sustainability Report
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--177
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
 []|\TU/TimesNewRoman(0)/m/n/12 «специфические выбросы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--177
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
 \TU/TimesNewRoman(0)/m/n/12 парниковых газов снижены
  []
 
 
-Underfull \hbox (badness 5050) in paragraph at lines 177--177
+Underfull \hbox (badness 5050) in paragraph at lines 193--193
 \TU/TimesNewRoman(0)/m/n/12 на 6.7 %, удельные выбросы в
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 []|\TU/TimesNewRoman(0)/m/n/12 Отражено снижение
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 \TU/TimesNewRoman(0)/m/n/12 климатических рисков
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 \TU/TimesNewRoman(0)/m/n/12 через количественные
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 []|\TU/TimesNewRoman(0)/b/n/12 Управление
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 \TU/TimesNewRoman(0)/b/n/12 климатическими
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 182--182
+Underfull \hbox (badness 2351) in paragraph at lines 198--198
 []|\TU/TimesNewRoman(0)/m/n/12 «Оценка климатических рисков
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 182--182
+Underfull \hbox (badness 3803) in paragraph at lines 198--198
 \TU/TimesNewRoman(0)/m/n/12 выполнена по трём сценариям
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
 \TU/TimesNewRoman(0)/m/n/12 SSP 126, 245, 585 с оценкой
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 \TU/TimesNewRoman(0)/m/n/12 для моделирования
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 187--187
+Underfull \hbox (badness 2158) in paragraph at lines 203--203
 \TU/TimesNewRoman(0)/m/n/12 «A−»… оценивает и управляет
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 []|\TU/TimesNewRoman(0)/m/n/12 Усиленная ESG-
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 188--189
+Underfull \hbox (badness 3219) in paragraph at lines 204--205
 \TU/TimesNewRoman(0)/m/n/12 практика с признанием
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 \TU/TimesNewRoman(0)/m/n/12 международных
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
 []|\TU/TimesNewRoman(0)/b/n/12 AI для контроля
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 []|\TU/TimesNewRoman(0)/m/n/12 «RUSAL внедряет
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 \TU/TimesNewRoman(0)/m/n/12 искусственный интеллект
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 \TU/TimesNewRoman(0)/m/n/12 для мониторинга технологии
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 []|\TU/TimesNewRoman(0)/m/n/12 Конкретный пример
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 \TU/TimesNewRoman(0)/m/n/12 ИИ‑проекта для
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 \TU/TimesNewRoman(0)/m/n/12 контроля процессов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 []|\TU/TimesNewRoman(0)/m/n/12 Долгосрочная ESG-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 \TU/TimesNewRoman(0)/m/n/12 стратегия — база
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 \TU/TimesNewRoman(0)/m/n/12 для стратегического
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 \TU/TimesNewRoman(0)/m/n/12 мониторинга в
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 218--218
+
+[2]
+Underfull \hbox (badness 3907) in paragraph at lines 234--234
 []|\TU/TimesNewRoman(0)/m/n/12 Если отклонение по срокам
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \TU/TimesNewRoman(0)/m/n/12 задач > 15% от базового
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 []|\TU/TimesNewRoman(0)/m/n/12 Используется в системе оценки
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 \TU/TimesNewRoman(0)/m/n/12 инвестиционных проектов (СИБУР,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 \TU/TimesNewRoman(0)/m/n/12 чем на 10% — пометить
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 \TU/TimesNewRoman(0)/m/n/12 как “рисковое отклонение”
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 \TU/TimesNewRoman(0)/m/n/12 и инициировать повторную
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 []|\TU/TimesNewRoman(0)/m/n/12 Типовой предел управления
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
 []|\TU/TimesNewRoman(0)/m/n/12 Если в течение 2 недель
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
 \TU/TimesNewRoman(0)/m/n/12 подряд фиксируются
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
 \TU/TimesNewRoman(0)/m/n/12 — система предупреждает
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
 []|\TU/TimesNewRoman(0)/m/n/12 Используется для выявления скрытых
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
 []|\TU/TimesNewRoman(0)/m/n/12 Если уровень ESG-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
 \TU/TimesNewRoman(0)/m/n/12 показателей падает ниже
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
 \TU/TimesNewRoman(0)/m/n/12 внутреннего порога
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
 \TU/TimesNewRoman(0)/m/n/12 (например, выбросы СО₂
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
 \TU/TimesNewRoman(0)/m/n/12 выросли > 5%), проект
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
 \TU/TimesNewRoman(0)/m/n/12 помечается как “критичный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 []|\TU/TimesNewRoman(0)/m/n/12 На базе данных из отчётов РУСАЛ и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--230
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
 []|\TU/TimesNewRoman(0)/m/n/12 Если подрядчик пропускает
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--230
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
 \TU/TimesNewRoman(0)/m/n/12 более 1 контрольной
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--230
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
 \TU/TimesNewRoman(0)/m/n/12 точки подряд — вывести
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 []|\TU/TimesNewRoman(0)/m/n/12 Стратегия управления подрядчиками у
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--233
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
 \TU/TimesNewRoman(0)/m/n/12 любого риска > 70%,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--233
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
 \TU/TimesNewRoman(0)/m/n/12 активировать сценарный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 \TU/TimesNewRoman(0)/m/n/12 сбой в ИИ-мониторинге
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 \TU/TimesNewRoman(0)/m/n/12 контроле), приостановить
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 \TU/TimesNewRoman(0)/m/n/12 операции и инициировать
  []
 
-
-
 [3]
-Overfull \hbox (4.15376pt too wide) in paragraph at lines 241--241
-|[]\TU/TimesNewRoman(0)/b/n/17.28 Концепция сценарного моделирования реализации проекта| 
- []
-
-
-Overfull \hbox (54.55392pt too wide) in paragraph at lines 243--244
-\TU/TimesNewRoman(0)/m/n/12 текущем состоянии проекта, вероятностях рисков и внешних ограничениях для генерации альтернативных
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
+|[]\TU/TimesNewRoman(0)/b/n/17.28 Концепция сценарного моделирования реализации
  []
 
 
@@ -1235,25 +1224,15 @@ File: 1.png Graphic file (type bmp)
 
 
 [5]
+Underfull \hbox (badness 1442) in paragraph at lines 318--319
+\TU/TimesNewRoman(0)/m/n/12 использует внешние документы при генерации ответа. Вместо генерации ”из головы”,
+ []
+
+
 
 [6]
-Overfull \hbox (7.3827pt too wide) in paragraph at lines 302--303
-\TU/TimesNewRoman(0)/m/n/12 использует внешние документы при генерации ответа. Вместо генерации ”из головы”, помощник
- []
-
-
-Overfull \hbox (22.90744pt too wide) in paragraph at lines 320--321
-[]\TU/TimesNewRoman(0)/m/n/12 Удобно реализуется на практике с помощью LangChain, Haystack или собственного пайплайна. 
- []
-
-
-Overfull \hbox (29.95839pt too wide) in paragraph at lines 325--327
-\TU/TimesNewRoman(0)/b/n/12 Запрос пользователя: \TU/TimesNewRoman(0)/m/n/12 «Какие риски учитывает СИБУР при реализации инвестиционных проектов?» 
- []
-
-
-Overfull \hbox (71.72888pt too wide) in paragraph at lines 332--334
-[]\TU/TimesNewRoman(0)/m/n/12 Генератор LLM формирует ответ: \TU/TimesNewRoman(0)/m/it/12 «СИБУР выделяет следующие ключевые риски: макроэкономический,
+Underfull \hbox (badness 1571) in paragraph at lines 348--350
+[]\TU/TimesNewRoman(0)/m/n/12 Генератор LLM формирует ответ: \TU/TimesNewRoman(0)/m/it/12 «СИБУР выделяет следующие ключевые риски:
  []
 
 File: 2.png Graphic file (type bmp)
@@ -1261,203 +1240,249 @@ File: 2.png Graphic file (type bmp)
 
 
 [7]
-Overfull \hbox (12.1094pt too wide) in paragraph at lines 345--346
-\TU/TimesNewRoman(0)/m/n/12 «вопрос–ответ» на основе анализа годовых отчётов, внутренних регламентов, сценариев и гипотез
- []
-
-
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 400--400
+Underfull \hbox (badness 10000) in paragraph at lines 416--416
 []|\TU/TimesNewRoman(0)/b/n/12 Примеры вопросов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--401
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
 []|\TU/TimesNewRoman(0)/b/n/12 Примеры ответов (re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--404
+Underfull \hbox (badness 10000) in paragraph at lines 420--420
 []|\TU/TimesNewRoman(0)/b/n/12 Примеры вопросов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
 []|\TU/TimesNewRoman(0)/b/n/12 Примеры ответов (re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
 []|\TU/TimesNewRoman(0)/m/n/12 Какие ключевые риски
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
 \TU/TimesNewRoman(0)/m/n/12 Что делать при росте
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
 []|\TU/TimesNewRoman(0)/m/n/12 Перечисление типов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
 \TU/TimesNewRoman(0)/m/n/12 рисков, рекомендации
  []
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 408--409
+Underfull \hbox (badness 2229) in paragraph at lines 424--425
 \TU/TimesNewRoman(0)/m/n/12 по управлению, ссылка на
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
 \TU/TimesNewRoman(0)/m/n/12 Поставка оборудования
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
 []|\TU/TimesNewRoman(0)/m/n/12 Генерация сценариев:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
 \TU/TimesNewRoman(0)/m/n/12 пересчёт графика,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
 \TU/TimesNewRoman(0)/m/n/12 перераспределение задач,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--414
+Underfull \hbox (badness 10000) in paragraph at lines 430--430
 []|\TU/TimesNewRoman(0)/m/n/12 Бюджет и
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 414--414
+Underfull \hbox (badness 1052) in paragraph at lines 430--430
 []|\TU/TimesNewRoman(0)/m/n/12 Проект выходит за бюджет
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--414
+Underfull \hbox (badness 10000) in paragraph at lines 430--430
 \TU/TimesNewRoman(0)/m/n/12 Как контролируется
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
 []|\TU/TimesNewRoman(0)/m/n/12 Сценарий перерасчёта
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
 \TU/TimesNewRoman(0)/m/n/12 Engineering, уведомление
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 417--417
+Underfull \hbox (badness 2393) in paragraph at lines 433--433
 []|\TU/TimesNewRoman(0)/m/n/12 Мы не достигли трёх KPI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--418
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
 []|\TU/TimesNewRoman(0)/m/n/12 Гипотеза H3: система
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--418
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
 \TU/TimesNewRoman(0)/m/n/12 фиксирует угрозу,
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 420.
+(Font)              <12> on input line 436.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 420.
+(Font)              <8> on input line 436.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 420.
+(Font)              <6> on input line 436.
 
-Underfull \hbox (badness 3281) in paragraph at lines 420--420
+Underfull \hbox (badness 3281) in paragraph at lines 436--436
 []|\TU/TimesNewRoman(0)/m/n/12 Выбросы CO$[]$ выросли на
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
 []|\TU/TimesNewRoman(0)/m/n/12 ESG-триггер, активация
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
 \TU/TimesNewRoman(0)/m/n/12 сценариев SSP,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--423
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
 []|\TU/TimesNewRoman(0)/m/n/12 Подрядчик сорвал 2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--423
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
 \TU/TimesNewRoman(0)/m/n/12 Как реагировать на
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--423
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
 \TU/TimesNewRoman(0)/m/n/12 подрядчиков с плохой
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
 []|\TU/TimesNewRoman(0)/m/n/12 Анализ контракта,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
 \TU/TimesNewRoman(0)/m/n/12 рекомендации по
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
 \TU/TimesNewRoman(0)/m/n/12 замене, подключение
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
 \TU/TimesNewRoman(0)/m/n/12 альтернативного
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--426
+Underfull \hbox (badness 10000) in paragraph at lines 442--442
 []|\TU/TimesNewRoman(0)/m/n/12 Сбой в системе
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--426
+Underfull \hbox (badness 10000) in paragraph at lines 442--442
 \TU/TimesNewRoman(0)/m/n/12 Что делать при
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 442--443
 []|\TU/TimesNewRoman(0)/m/n/12 Остановка операций,
  []
 
 
-Underfull \hbox (badness 2772) in paragraph at lines 426--427
+Underfull \hbox (badness 2772) in paragraph at lines 442--443
 \TU/TimesNewRoman(0)/m/n/12 переход на ручной режим,
  []
 
 
 
 [9]
-Overfull \hbox (4.21799pt too wide) in paragraph at lines 433--434
-\TU/TimesNewRoman(0)/m/n/12 Подготовлена концепция интеллектуального помощника, включающего в себя механизм анализа
+Underfull \hbox (badness 2626) in paragraph at lines 453--454
+\TU/TimesNewRoman(0)/m/n/12 гипотезы мониторинга состояния проекта, позволяющие ввести триггеры для перевода
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 453--454
+\TU/TimesNewRoman(0)/m/n/12 используются как в алгоритмах оценки, так и при генерации сценариев альтернативных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+[]\TU/TimesNewRoman(0)/m/n/12 Особое внимание было уделено архитектуре RAG-модели, которая обеспечивает
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 455--456
+\TU/TimesNewRoman(0)/m/n/12 способность модели генерировать осмысленные и обоснованные ответы с опорой на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+[]\TU/TimesNewRoman(0)/m/n/12 Формирование обучающего датасета для этапа fine-tuning выполнено в формате
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 457--458
+\TU/lmtt/m/n/12 .jsonl \TU/TimesNewRoman(0)/m/n/12 и включает 70 пар запрос–ответ, покрывающих основные управленческие темы.
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 457--458
+\TU/TimesNewRoman(0)/m/n/12 Для структурирования тем был составлен классификатор, включающий семь ключевых
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+[]\TU/TimesNewRoman(0)/m/n/12 В результате проделанной работы была не только сформирована концепция
  []
 
 
 
-[10] (база данных.aux)
+[10] (D:\Tex\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/05/25 1.10b listings language file
+)
+Missing character: There is no В in font [lmmono10-regular]:!
+Missing character: There is no о in font [lmmono10-regular]:!
+Missing character: There is no п in font [lmmono10-regular]:!
+Missing character: There is no р in font [lmmono10-regular]:!
+Missing character: There is no о in font [lmmono10-regular]:!
+Missing character: There is no с in font [lmmono10-regular]:!
+Missing character: There is no О in font [lmmono10-regular]:!
+Missing character: There is no т in font [lmmono10-regular]:!
+Missing character: There is no в in font [lmmono10-regular]:!
+Missing character: There is no е in font [lmmono10-regular]:!
+Missing character: There is no т in font [lmmono10-regular]:!
+
+
+[11] (база данных.aux)
  ***********
 LaTeX2e <2024-06-01>
 L3 programming layer <2024-05-08>
@@ -1466,12 +1491,12 @@ Package rerunfilecheck Info: File `"база данных".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 13662 strings out of 409067
- 258916 string characters out of 5765324
- 2112545 words of memory out of 5000000
- 36148 multiletter control sequences out of 15000+600000
- 562286 words of font info for 75 fonts, out of 8000000 for 9000
+ 13838 strings out of 409067
+ 261025 string characters out of 5765324
+ 2119545 words of memory out of 5000000
+ 36321 multiletter control sequences out of 15000+600000
+ 561373 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 79i,9n,93p,535b,999s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,9n,93p,529b,1251s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on база данных.xdv (10 pages, 179276 bytes).
+Output written on база данных.xdv (12 pages, 235548 bytes).
